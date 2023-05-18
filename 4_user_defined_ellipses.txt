@@ -1,0 +1,6 @@
+dfnGen /dfnWorks/examples/hill-top/gen_4_user_ellipses.dat
+dfnFlow /None/None/
+dfnTrans /None/None/
+
+#dfnFlow /dfnWorks/examples/hill-top/dfn_explicit.in
+#dfnTrans /dfnWorks/examples/hill-top/PTDFN_control.dat
