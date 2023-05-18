@@ -25,7 +25,7 @@ outputAllRadii: 0
 */
                       
 
-domainSize: {1710,2000,1000} 
+domainSize: {1705,1005,1000} 
     /* Mandatory Parameter.
         Creates a domain with dimension x*y*z centered at the origin.*/
 
@@ -49,7 +49,7 @@ layers:
 numOfRegions: 0
 
 regions:
-{-2500, -790, -1000, 1000, -500, 500}
+{-2500, -795, -1000, 5, -500, 500}
 
 
 orientationOption: 0
@@ -409,7 +409,7 @@ rconst: {4,4}  // Constant radius, defined per rectangular family
          user-ellipse, with possibility of being rejected  */
 
    
-userEllipsesOnOff: 1    //0 - User Ellipses off
+userEllipsesOnOff: 0    //0 - User Ellipses off
                         //1 - User Ellipses on
 
 UserEll_Input_File_Path: /dfnWorks/examples/hill-top/define_4_user_ellipses.dat 
